@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spark-streaming-twitter_2.10-1.6.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spark-streaming-twitter_2.10-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
