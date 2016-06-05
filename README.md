@@ -1,7 +1,7 @@
 # Spark Streaming With Twitter
-In Spark Summit 2014, there was a hand-on exercise on Streaming with Twitter. Now I am reproducing this exercise using the latest versions at present (May-2016).
+In Spark Summit 2014 [2], there was a hand-on exercise on Streaming with Twitter. Now I am reproducing this exercise using the latest versions at present (May-2016).
 
-This is the (almost) complete source code. All one needs to do is to fill in Twitter's credentials. The library dependencies (Twitter4J, spark-streaming-twitter) are also included here for convenience.
+This is the (almost) complete source code. All one needs to do is to fill in Twitter's credentials [6]. The library dependencies (Twitter4J, spark-streaming-twitter) are also included here for convenience.
 
 There are two ways to reproduce:
 
@@ -19,11 +19,11 @@ Note: In case those additional jars cannot be found, use absolute paths!
 
 * Scala v2.10.5
 
-* Java SDK v1.8.0_92
+* Java SDK v1.8.0_92 64-bit
 
-* spark-streaming-twitter_2.10-1.6.1.jar
+* spark-streaming-twitter_2.10-1.6.1.jar [5]
 
-* Twitter4J v4.0.4
+* Twitter4J v4.0.4 [4]
 
 * Windows 8.1 64-bit
 
@@ -38,3 +38,5 @@ Note: In case those additional jars cannot be found, use absolute paths!
 4. [Twitter4J](http://twitter4j.org/en/index.html)
 
 5. [spark-streaming-twitter_2.10-1.6.1](http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22spark-streaming-twitter_2.10%22)
+
+6. [Twitter Apps](https://dev.twitter.com/apps)
