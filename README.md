@@ -1,7 +1,7 @@
 # Spark Streaming With Twitter
-In Spark Summit 2014 [2], there was a hand-on exercise on Streaming with Twitter. Now I am reproducing this exercise using the latest versions at present (May-2016).
+In Spark Summit 2014 [2], there was a hand-on exercise on Streaming with Twitter. I am reproducing this exercise using the latest versions at present (May-2016).
 
-This is the (almost) complete source code. All one needs to do is to fill in Twitter's credentials [6]. The library dependencies (Twitter4J, spark-streaming-twitter) are also included here for convenience.
+This is the (almost) complete source code (I finished the missing part "Your code goes here" in the exercise). All one needs to do now is to fill in Twitter's credentials [6]. The library dependencies (Twitter4J, spark-streaming-twitter) are also included here for convenience.
 
 There are two ways to reproduce:
 
